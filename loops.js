@@ -17,11 +17,11 @@ function whileLoop(n) {
 
 whileLoop();
 
-let num = 1;
+let num = 0;
 
 function incrementVariable() {
   num = num + 1;
-  return num;
+  //return num;
 }
 
 function doWhileLoop(num) {
