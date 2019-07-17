@@ -22,6 +22,7 @@ let num = 0;
 function doWhileLoop() {
   num = num + 1;
   return num;
+  console.log("I run once regardless.")
 }
 
 do {
